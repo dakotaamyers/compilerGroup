@@ -31,6 +31,6 @@ Work to be done
 
 Meet deadline
     Kiran Patel
-        
+        The developer should be able to finish and submit the work before the next deadline.
     Paul Myers
         The tester should be able to finish and submit the work before the next deadline.
