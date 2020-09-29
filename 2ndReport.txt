@@ -1,0 +1,34 @@
+Report submitted at 2020-09-27 7:30pm
+
+Role
+    Assignment Leader: Dakota Myers
+    Programmer       : Kiran Patel
+    Tester           : Paul Myers
+
+Progress
+    Dakota Myers
+        Continued coordinating group communication; Secured corrected tiger.ll file
+    Kiran Patel
+        Made progress on alpha version of project; discussed test cases with Paul Myers
+    Paul Myers
+        Developed test cases for alpha version of project; discussed alpha version with Kiran Patel
+
+Challenging Issues
+    Finding creative ways to test the alpha version of project
+
+Work to be done
+    Dakota Myers
+        Review alpha version and test files for correct format and commenting conventions;
+        Make schedule to pace out the remaining work needed to finish the project.
+    Kiran Patel
+        Make final changes to alpha version; Update GitHub repository with final draft.
+    Paul Myers
+        Coordinate with Kiran Patel for the final alpha version of project to run test files;
+        Update repository with final test files.
+
+Meet deadline
+    Kiran Patel
+        The developer should be able to finish and submit the work before the next deadline.
+
+    Paul Myers
+        The tester should be able to finish and submit the work before the next deadline.
