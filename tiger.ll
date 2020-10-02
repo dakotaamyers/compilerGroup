@@ -14,6 +14,7 @@
 #include <iostream>
 #include <string>
 #include <sstream>
+#include "tiger.tab.hh"
 #include "ErrorMsg.h"
 
 using std::string;
